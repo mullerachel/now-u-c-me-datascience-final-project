@@ -1,0 +1,8 @@
+*/.DS_Store
+.DS_Store
+.ipynb_checkpoints/*
+ARPE_Counts_of_peaks_per_region.csv
+David_Sant_normalizing.Things.not.used.ipynb
+Genome Info/*
+SC/*
+tmp_David_Sant_normalizing.RNA.and.hMeDIP.ipynb
